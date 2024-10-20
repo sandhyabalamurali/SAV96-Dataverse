@@ -40,4 +40,4 @@ The team worked collaboratively to solve challenges in pregnancy care using inno
 ## Model Weights
 You can download the model weights from the following Google Drive link:
 
-[Download Model Weights]([https://drive.google.com/file/d/1JeSepQJHX3tB4JnQU-OLMmhWbLN7VKb5/view?usp=drive_link])
+[Download Model Weights](https://drive.google.com/file/d/1JeSepQJHX3tB4JnQU-OLMmhWbLN7VKb5/view?usp=drive_link)
